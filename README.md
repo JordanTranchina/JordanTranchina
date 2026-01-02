@@ -1,6 +1,6 @@
 ### Howdy, I'm Jordan 👋
 
-- 😎  I'm a Product Manager at [Gusto](www.gusto.com)
+- 😎  I'm a Product Manager at [Gusto](https://gusto.com/)
 - 🎓  I got my MBA at Kellogg
 - 💬  Ask me about Product Management, UX Design, Software Development, Notion, AI, Vibecoding
 - 💌  How to reach me: [Email](mailto:jordan12522@gmail.com) | [Website](https://www.jordantranchina.com/)
